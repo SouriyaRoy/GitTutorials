@@ -1,18 +1,11 @@
-#add
-#this is for rebasing example in bug1
 def add(x,y):
-    return x+y
+    pass
     
-#subtract
 def subtract(x,y):
-    if x<y:
-        return Error
-    return x-y
+    pass
     
-#multiply
 def multiply(x,y):
-    return x*y
+    pass
     
-#divide
 def divide(x,y):
-    return x/y
+    pass
